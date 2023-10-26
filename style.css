@@ -14,8 +14,6 @@ body {
     width: 100%; /* Mengisi lebar penuh pada layar kecil */
     max-width: 900px; /* Maksimum lebar gambar */
     height: auto; /* Mengikuti aspek rasio gambar */
-    margin: 10px;
-    border: 1px solid #ccc;
 }
 
 /* Media query untuk layar kecil (misalnya, handphone) */
